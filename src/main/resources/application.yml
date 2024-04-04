@@ -1,0 +1,17 @@
+spring.application.name: shopper-svc
+
+logging:
+  level:
+    org.springframework: DEBUG
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+#    username: sds
+#    password: sfsf
+  jpa:
+    show-sql: true
+#  security:
+#    user:
+#      name: sheik
+#      password: sheik
