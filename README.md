@@ -1,0 +1,1 @@
+# niq-shopper-service
